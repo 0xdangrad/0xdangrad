@@ -3,7 +3,6 @@
 - 🌱 I’m currently **learning** Python programming & automation development.
 - 💞️ I’m open to **collaborate** on a wide range of innovative ideas that solve real-world problems.
 - 📫 **How to reach me**: `21p7z50gg[at]mozmail[dot]com`
-- 😄 **Pronouns**: He/Him.
 - ⚡ **Fun fact**: I enjoy tackling tough problems and finding efficient solutions.
 
 <!---
